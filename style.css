@@ -1,0 +1,58 @@
+h1{
+	color: red;
+}
+h2{
+	color: red;
+	
+}
+.huruf h3{
+	font-size: 1.4em;
+
+}
+h3{
+	color: red;
+	
+}
+body{
+	background-color:lightblue; 
+
+}
+.right h2{
+	float:right;
+	margin-right: 50px;
+	color: #A9A9A9;
+	font-size: 1em
+}
+#profile th{
+	background-color:#AC534C;
+
+}
+#profile td{
+	background-color: #bdc3c7;
+}
+.lingkaran {
+	width: 140px;
+	height: 140px;
+	background‐color: #f00;
+	border-radius: 50%;
+	overflow: hidden;
+	float : center;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.kotak{
+	width: 500px;
+	height: 500px;
+	background-color: #F5CFC0;
+	padding: 10px;
+
+}
+#jadwal th{
+	background-color: ;
+	font-style: "times new rowman";
+	border-style: dotted;
+}
+#jadwal td{
+	background-color: ;
+	font-style: "times new rowman";
+}
